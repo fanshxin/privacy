@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>HTML Editor - LDDGO.NET</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/styles/default.min.css" type="text/css">
-</head>
 <body>
-
 <p><strong>均律APP隐私政策</strong></p>
 <p>生效日期： 2025年3月10日<br />开发者： [A_vanda]<br />联系方式： [fjlt@163.com]</p>
 <p><strong>一、信息收集声明</strong></p>
@@ -26,8 +20,5 @@
 <p><strong>四、政策更新</strong></p>
 <p>更新内容将通过APP内「关于我们」页面公告，不进行主动推送</p>
 <p>&nbsp;</p>
-
-<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js" type="text/javascript"></script>
-<script type="text/javascript">hljs.highlightAll();</script>
 </body>
 </html>
